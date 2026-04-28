@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f9;
+    color: #333;
+    line-height: 1.6;
+    margin: 40px;
+    text-align: center;
+}
+
+header {
+    background-color: #7a1414;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.titulo-principal {
+    color: #ffffff;
+    font-size: 36px;
+}
+
+h2,
+h3 {
+    color: #7a1414;
+}
+
+.foto-perfil {
+    width: 200px;
+    border-radius: 8px;
+    border: 2px solid #ddd;
+    margin: 0 auto 20px auto;
+    display: block;
+}
+
+a {
+    color: #000000;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #bb1616;
+}
+
+ul,
+ol {
+    list-style-position: inside;
+    padding: 0;
+    text-align: center;
+}
+
+li {
+    list-style-type: disc;
+}
+
+footer {
+    margin-top: 40px;
+    padding: 5px;
+    background-color: #7a1414;
+    color: #ffffff;
+}
